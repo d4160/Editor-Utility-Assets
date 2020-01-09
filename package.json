@@ -1,0 +1,36 @@
+{
+  "name": "d4160.editor-utility-assets",
+  "displayName": "Editor Utility Assets ",
+  "version": "1.0.0",
+  "unity": "2017.1",
+  "description": "Essential free assets to work in unity editor.",
+  "keywords": [
+    "editor",
+    "utility",
+    "inspector"
+  ],
+  "author": {
+    "name": "Various"
+  },
+  "samples": [
+    {
+      "displayName": "Hierarchy Dividers Examples",
+      "description": "Hierarchy Dividers Examples.",
+      "path": "Hierarchy Dividers/Samples~"
+    },
+    {
+      "displayName": "StickyNotes Examples",
+      "description": "StickyNotes Examples.",
+      "path": "StickyNotes/Samples~"
+    },
+    {
+      "displayName": "ToDoList Examples",
+      "description": "ToDoList Examples.",
+      "path": "ToDoList/Samples~"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d4160/Editor-Utility-Assets.git"
+  }
+}
