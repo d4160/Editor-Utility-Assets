@@ -1,0 +1,17 @@
+{
+    "name": "StickyNotes.Editor",
+    "references": [
+        "GUID:d6ae31c399592cd40841d131bfa2cfd1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
